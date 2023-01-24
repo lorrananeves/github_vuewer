@@ -5,7 +5,7 @@ module.exports = {
         node: true,
     },
     extends: [
-        'plugin:vue/essential', 'eslint:recomended'
+        'plugin:vue/essential',
     ],
     rules:{
         'vue/multi-word-component-names': 'off',
